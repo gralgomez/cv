@@ -70,15 +70,15 @@
 ---
 ## Projects
 #### [Determination of user disengagement factors using sentiment analysis](https://github.com/gralgomez/coursetalk_sentimentanalysis)
-`RStudio`, `ggplot2`, `rattle`, `Tex`, `it-idf`, `Python`, `scrappy`, `S3`, `rmr2`
-> - Detection of user behaviour using sentiment analysis and topic modeling (LSI, IT-IDF).
+`RStudio`, `ggplot2`, `rattle`, `Tex`, `it-idf`, `Python`, `scrappy`, `S3`, `RS3`, `rmr2`
+> - Detection of user behaviour using sentiment analysis and topic modeling (LSI, IT-IDF). Extraction of the data using 'scrappy' and 'beautifulsoup'(Python). The data analysis and modeling was done with R using 'sentiment' (discontinued by CRAN).
 
 #### [Revision of the Solow growth model](https://github.com/gralgomez/modeling_solow)
 `RStudio`, `ggplot2`, `caret`, `Tex`, `regression models`
 > - Replication of the Solow growth model based on (Mankiw, Romer and Weil, 1992) and revision of the model using extracted World Bank data.
 
 #### [Customers Churn Prediction in the Telecommunication Industry](https://github.com/gralgomez/customerchurn)
-`RStudio`, `RStudio`, `caret`, `ensemble`
+`RStudio`, `R`, `caret`, `ensemble`
 > - Prediction of Customer Churn using the AdaBoost Classifier.
 
 
