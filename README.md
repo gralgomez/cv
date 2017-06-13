@@ -76,6 +76,10 @@
 `RStudio`, `ggplot2`, `caret`, `Tex`, `regression models`
 > - Replication of the Solow growth model based on (Mankiw, Romer and Weil, 1992) and revision of the model using extracted World Bank data.
 
+#### [Customers Churn Prediction in the Telecommunication Industry](https://github.com/gralgomez/customerchurn)
+`RStudio`, `RStudio`, `caret`, `ensemble`
+> - Prediction of Customer Churn using the AdaBoost Classifier.
+
 
 ---
 ## Software
