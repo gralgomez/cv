@@ -77,11 +77,11 @@ RStudio, Pycharm, Kile | MacOS, Ubuntu
 ## Projects
 #### [Determination of user disengagement factors using sentiment analysis](https://github.com/gralgomez/coursetalk_sentimentanalysis)
 `RStudio`, `ggplot2`, `rattle`, `Tex`, `it-idf`, `Python`, `scrappy`
-Detection of user behaviour using sentiment analysis and topic modeling (LSI, IT-IDF).
+> - Detection of user behaviour using sentiment analysis and topic modeling (LSI, IT-IDF).
 
 #### [Revision of the Solow growth model](https://github.com/gralgomez/modeling_solow)
 `RStudio`, `ggplot2`, `caret`, `Tex`, `regression models`
-
+> - Replication of the Solow growth model based on (Mankiw, Romer and Weil, 1992) and revision of the model using extracted World Bank data.
 
 ---
 ## Volunteering
