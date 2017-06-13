@@ -1,13 +1,11 @@
-# ![avatar](https://avatars0.githubusercontent.com/u/8593289?v=3&u=67af8a82c4584ac6bc789fec13461574a8f66921&s=400) Laura Gabrysiak
+# ![avatar](https://avatars0.githubusercontent.com/u/8593289?v=3&u=67af8a82c4584ac6bc789fec13461574a8f66921&s=400) 
+# Laura Gabrysiak
 
 ---
 
 > #### Data Scientist | UX Specialist
 > #####  Fort Lauderdale &emsp; [linkedin.com/in/lauragabrysiak/][homepage]
 > `R`, `Python`, `Git`
-
----
-> **"** 
 > - Passionate about the design and implementation of algorithms to solve
 > challenging problems that require building scalable predictive models
 > and drawing conclusions from large datasets.
