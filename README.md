@@ -78,10 +78,9 @@ RStudio, Pycharm, Kile | MacOS, Ubuntu
 
 ---
 ## Volunteering
-#### ; <small>*2013 - 2016*</small>
-`R`, `Tableau`, `SPSS`, `SQL`, `SaSS`, `DB2`
-> - _Thesis_: "Determination of user disengagement factors using sentiment analysis"
-> - _Selected Courses_: 
+#### [R-Ladies Miami](https://www.meetup.com/R-Ladies-Miami/), Organizer  <small>*April 2017 - current*</small>
+`R`, `meetup`, `community building`
+> - The goal of [R-Ladies](https://rladies.org/) Miami is to build a more inclusive R community in Miami/Broward. THis is a non-profit, female-centric civil community, designed to develop it's members' R skills & knowledge through social, collaborative learning & sharing.
 
 ---
 [avatar]: http://linkedin.com/in/lauragabrysiak/
