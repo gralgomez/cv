@@ -1,5 +1,4 @@
-# ![avatar](https://docs.google.com/drawings/d/1-Kwd0xH225RCijzy1yjX0tV_VZk42B7hGxTxd8UrpiE/pub?w=263&h=263) 
-# Laura Gabrysiak
+# ![avatar](https://docs.google.com/drawings/d/1-Kwd0xH225RCijzy1yjX0tV_VZk42B7hGxTxd8UrpiE/pub?w=263&h=263) Laura Gabrysiak
 
 ---
 
