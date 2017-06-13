@@ -76,6 +76,8 @@
 `RStudio`, `ggplot2`, `caret`, `Tex`, `regression models`
 > - Replication of the Solow growth model based on (Mankiw, Romer and Weil, 1992) and revision of the model using extracted World Bank data.
 
+
+---
 ## Software
 ##### Editor & Operating System
 RStudio, Pycharm, Kile | MacOS, Ubuntu
