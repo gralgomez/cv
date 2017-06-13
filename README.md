@@ -59,8 +59,8 @@
 
 ---
 #### Study Abroad: @[University of Trento](http://www.unitn.it/en), Italy &emsp; <small>*2009 - 2010*</small>
-`Weka`, `SVM_Light`, `[BART](http://bart-coref.org/)` 
-> - _Activities_: Development of an experiment for quality control assurance of user manual annotation in Coreference Systems using Amazon's Mechanical Turk.
+`Weka`, `SVM_Light`, `BART` 
+> - _Activities_: Development of an experiment for quality control assurance of user manual annotation in Coreference Systems using Amazon's Mechanical Turk and [BART](http://bart-coref.org/).
 > - _Selected Courses_: [Machine Learning](https://www.esse3.unitn.it/AttivitaDidatticaContestualizzata.do;jsessionid=583790860A699FC59450AA2C9283DB87.jvm_unitn10?cds_id=10117&pds_id=10000&sel_pds_id=10000&aa_ord_id=2008&aa_off_id=2009&ad_id=87830), [Text Processing](https://www.esse3.unitn.it/Guide/PaginaADContest.do;jsessionid=270A59DA1E6DBE9991CDF39BF12B775B.esse3-unitn-prod-05?ad_cont_id=10168*88986*2012*2011*10001&ANNO_ACCADEMICO=2012), [Artificial Intelligence](https://www.esse3.unitn.it/Guide/PaginaADErogata.do;jsessionid=270A59DA1E6DBE9991CDF39BF12B775B.esse3-unitn-prod-05?cod_lingua=eng&ad_er_id=2012*N0*N0*S2*28692*88778&ANNO_ACCADEMICO=2012&mostra_percorsi=S)   
 
 ---
