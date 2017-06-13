@@ -40,14 +40,14 @@
 #### [M.Sc. Information Systems](https://www.wiwi.hu-berlin.de/en/professuren/quantitativ/wi/lehre/masterprogramm) @[Humboldt University of Berlin](https://www.hu-berlin.de/en/), Germany &emsp; <small>*2013 - 2016*</small>
 `R`, `Tableau`, `SPSS`, `SQL`, `SaSS`, `DB2`
 > - _Thesis_: "Determination of user disengagement factors using sentiment analysis" (Prof. Stefan Lessmann)
-> - _Selected Courses_: [Econometric Methods](https://www.wiwi.hu-berlin.de/de/professuren/quantitativ/oe/teaching/winter1617/econometric-methods/econometric-methods, [Marketing Modeling](https://www.wiwi.hu-berlin.de/en/professuren/bwl/marketing/teaching-1/master-program/advanced-marketing-modelling-1), [Statistical Programing Languages](https://www.wiwi.hu-berlin.de/de/professuren/quantitativ/statistik/Teaching_Moodle/ws1112/17867), [Introduction to Database Systems](http://www.dbis.informatik.hu-berlin.de/?id=330)
+> - _Selected Courses_: [Econometric Methods](https://www.wiwi.hu-berlin.de/de/professuren/quantitativ/oe/teaching/winter1617/econometric-methods/econometric-methods), [Business Analytics & Data Science](https://www.wiwi.hu-berlin.de/en/professuren/quantitativ/wi/lehre/mwi/business-analytics-data-science), [Marketing Modeling](https://www.wiwi.hu-berlin.de/en/professuren/bwl/marketing/teaching-1/master-program/advanced-marketing-modelling-1), [Datenanalyse](https://www.wiwi.hu-berlin.de/de/professuren/quantitativ/statistik/Teaching_Moodle/to_be_deleted/ss14/57612), [Statistical Programing Languages](https://www.wiwi.hu-berlin.de/de/professuren/quantitativ/statistik/Teaching_Moodle/ws1112/17867), [Introduction to Database Systems](http://www.dbis.informatik.hu-berlin.de/?id=330)
 
 ---
 #### [B.Sc. Computational Linguistics](https://www.uni-potsdam.de/studium/studienangebot/bachelor/ein-fach-bachelor/computerlinguistik.html) @[University of Potsdam](http://www.uni-potsdam.de/), Germany &emsp; <small>*2007 - 2011*</small>
 `Weka`, `Rapidminer`, `C++`, `Prolog`
 > - _Thesis_: "Using Automated Text Categorization for knowledge portal updating
 > purposes" (Prof. Manfred Stede - in collaboration with DFKI Berlin)
-> - _Selected Courses_: 
+> - _Selected Courses_: [Theoretical Informatics (I+II)](http://apache.cs.uni-potsdam.de/de/profs/ifi/theorie/lehre/ws1213/ti1-ws1213), Computation Linguistics Methods, 
 
 ---
 #### Study Abroad: @[University of Trento](http://www.unitn.it/en), Italy &emsp; <small>*2009 - 2010*</small>
@@ -56,10 +56,8 @@
 
 
 ---
-#### Academic Advanced Training @Hasso Plattner Institute (HPI dschool), Germany &emsp; <small>*2010 - 2011*</small>
-`Balsamiq`
-> - _Description_:
-> - _Selected Projects_: 
+#### Academic Training: [Basic/Advanced Track](https://hpi.de/en/school-of-design-thinking/for-students/general-information.html) @Hasso Plattner Institute ([HPI dschool](https://hpi.de/en/school-of-design-thinking.html)), Germany &emsp; <small>*2010 - 2011*</small>
+`Design Thinking approach`, `Innovation Management`, `Balsamiq`
 
 ---
 ## Favorites
