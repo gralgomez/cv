@@ -1,4 +1,4 @@
-# ![avatar](https://avatars0.githubusercontent.com/u/8593289?v=3&u=67af8a82c4584ac6bc789fec13461574a8f66921&s=400) 
+# ![avatar](https://drive.google.com/open?id=1-Kwd0xH225RCijzy1yjX0tV_VZk42B7hGxTxd8UrpiE) 
 # Laura Gabrysiak
 
 ---
