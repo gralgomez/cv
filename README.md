@@ -3,12 +3,9 @@
 > #### Data Scientist | UX Specialist
 > #####  Fort Lauderdale &emsp; [linkedin.com/in/lauragabrysiak/][homepage]
 > `R`, `Python`, `Git`
-> - Passionate about the design and implementation of algorithms to solve
-> challenging problems that require building scalable predictive models
-> and drawing conclusions from large datasets.
-> - Keen interest in machine learning & data science, and very enthusiastic about combining quantitative and qualitative research methods
-> - Bachelor’s degree in Computer Science and master’s degree in Information Systems & Technology with emphasis on applied mathematics.
-
+> - Passionate about the design and implementation of algorithms to solve challenging problems that require building scalable predictive models.
+> - Keen interest in combining quantitative and qualitative research methods in order to extract end-user insights.
+> - Bachelor’s degree in Computer Science and master’s degree in Information Systems & Technology with emphasis on Text Mining.
 
 ---
 ## Experience
