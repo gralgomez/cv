@@ -36,8 +36,8 @@
 `Python`, `Protege`
 > Worked as a Research Assistant at several EU-funded projects including 'LT-World' and 'DFKI-LT - META
 > Net':
-> - Supervision and maintenance of the ontology-based portal 'LT-World' (http://www.lt-world.org/). Design and implementation of a web crawler to extract relevant events. Design and implementation of an automated event-classifier using Python for automatically maintaining calendar events.
-> - Supervision and maintenance of the ontology-based portal 'META-NET' (http://www.meta-net.eu/).
+> - Supervision and maintenance of the ontology-based portal [LT-World](http://www.lt-world.org/). Design and implementation of a web crawler to extract relevant events. Design and implementation of an automated event-classifier using Python for automatically maintaining calendar events.
+> - Supervision and maintenance of the ontology-based portal [META-NET](http://www.meta-net.eu/).
 
 ---
 ## Education
