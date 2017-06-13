@@ -69,7 +69,7 @@
 ---
 ## Projects
 #### [Determination of user disengagement factors using sentiment analysis](https://github.com/gralgomez/coursetalk_sentimentanalysis)
-`RStudio`, `ggplot2`, `rattle`, `Tex`, `it-idf`, `Python`, `scrappy`
+`RStudio`, `ggplot2`, `rattle`, `Tex`, `it-idf`, `Python`, `scrappy`, `S3`, `rmr2`
 > - Detection of user behaviour using sentiment analysis and topic modeling (LSI, IT-IDF).
 
 #### [Revision of the Solow growth model](https://github.com/gralgomez/modeling_solow)
