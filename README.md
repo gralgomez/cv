@@ -46,6 +46,7 @@
 `R`, `Tableau`, `SPSS`, `SQL`, `SaSS`, `DB2`
 > - _Thesis_: "Determination of user disengagement factors using sentiment analysis" (Prof. Stefan Lessmann)
 > - _Selected Courses_: [Econometric Methods](https://www.wiwi.hu-berlin.de/de/professuren/quantitativ/oe/teaching/winter1617/econometric-methods/econometric-methods), [Business Analytics & Data Science](https://www.wiwi.hu-berlin.de/en/professuren/quantitativ/wi/lehre/mwi/business-analytics-data-science), [Marketing Modeling](https://www.wiwi.hu-berlin.de/en/professuren/bwl/marketing/teaching-1/master-program/advanced-marketing-modelling-1), [Datenanalyse](https://www.wiwi.hu-berlin.de/de/professuren/quantitativ/statistik/Teaching_Moodle/to_be_deleted/ss14/57612), [Statistical Programing Languages](https://www.wiwi.hu-berlin.de/de/professuren/quantitativ/statistik/Teaching_Moodle/ws1112/17867), [Introduction to Database Systems](http://www.dbis.informatik.hu-berlin.de/?id=330)
+
 ---
 #### [International Summer School in Economics and Management (ISSEM)](https://www.wiwex.net/wiwexnet/issem-icem/) @University of Havana, Cuba &emsp; <small>*2014, 2015*</small>
 `Development Economics`, `Design Thinking`
