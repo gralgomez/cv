@@ -2,10 +2,10 @@
 
 > #### Data Scientist | UX Specialist
 > #####  Fort Lauderdale &emsp; [linkedin.com/in/lauragabrysiak/][homepage]
-> `R`, `Python`, `Git`
+> `R`, `Python`, `Git`, `Tableau`, `GoogleSuite`
 > - Passionate about the design and implementation of algorithms to solve challenging problems that require building scalable predictive models.
 > - Keen interest in combining quantitative and qualitative research methods in order to extract end-user insights.
-> - Bachelor’s degree in Computer Science and master’s degree in Information Systems & Technology with emphasis on Text Mining.
+> - Bachelor’s degree in Computational Linguistics and master’s degree in Information Systems with emphasis in Business Analytics and Text Mining.
 
 ---
 ## Experience
@@ -69,7 +69,7 @@
 
 ---
 ## Projects
-#### [Determination of user disengagement factors using sentiment analysis](https://github.com/gralgomez/coursetalk_sentimentanalysis)
+#### [Determination of user disengagement factors using sentiment analysis](https://gralgomez.github.io/coursetalk_sentimentanalysis/)
 `RStudio`, `ggplot2`, `rattle`, `Tex`, `it-idf`, `Python`, `scrappy`, `S3`, `RS3`, `rmr2`
 > - Detection of user behaviour using sentiment analysis and topic modeling (LSI, IT-IDF). Extraction of the data using 'scrappy' and 'beautifulsoup'(Python). The data analysis and modeling was done with R using 'sentiment' (discontinued by CRAN).
 
