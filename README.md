@@ -24,7 +24,7 @@
 > Co-Innovation sessions at the AppHaus Heidelberg.
 
 ---
-#### Internship @SAP [Design & CoInnovation Center (DCC)](https://experience.sap.com/designservices/) Palo Alto, USA &emsp; <small>*May 2013 - July 2014*</small>
+#### Internship @SAP [Design & CoInnovation Center (DCC)](https://experience.sap.com/designservices/) Palo Alto, USA &emsp; <small>*May 2013 - December 2013*</small>
 `Adobe Suite`, `Balsamiq`, `Python`
 > - Worked as a User Researcher using qualitative and quantitative research methods to extract end-users insights.
 > - Facilitation and support of co-innovation workshops (in-house, with customers). Implementation of the Design Thinking approach end-to-end to develop software solutions. Design and conduction of user interviews and testing sessions (in-lab & onsite observation)
