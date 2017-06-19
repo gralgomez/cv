@@ -21,7 +21,6 @@
 #### UX Researcher @SAP [Design & CoInnovation Center (DCC)](https://experience.sap.com/designservices/) Berlin, Germany &emsp; <small>*May 2013 - July 2014*</small>
 `Adobe Suite`, `Balsamiq`, `R (Curl)`
 > - Facilitation and support of Design Thinking awareness Workshops (in-house, with customers). Implementation of the Design Thinking approach end-to-end to develop innovative software solutions.
-> Co-Innovation sessions at the AppHaus Heidelberg.
 
 ---
 #### Internship @SAP [Design & CoInnovation Center (DCC)](https://experience.sap.com/designservices/) Palo Alto, USA &emsp; <small>*May 2013 - December 2013*</small>
