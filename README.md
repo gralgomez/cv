@@ -11,11 +11,9 @@
 ## Experience
 ####  IT Business Consultant @Lovion GmbH &emsp; <small>*May 2014 - July 2016*</small>
 `Python`, `NLTK`, `R`, `sentiment`, `Shiny`
-> Worked as an IT Strategist in order to identify opportunities in the Spain/Italy markets and support the
-> expansion of Lovion GmbH:
-> - Facilitation of co-innovation sessions in order to support software internationalization and customer acquisition in European countries including Spain and Italy. Development of IT strategies and deployment tactics.
-> - Usage of Text Mining (Sentiment Analysis on Twitter data) to identify product resonance and market opportunities. (Python, NLTK).
-> - Design and creation of dashboards for advisory board in order to support decision-making.
+> - Used Text Mining (Sentiment Analysis on large scale Twitter and FB data) to identify product resonance and market opportunities using LSI and IT-IDF algorithms. (Python, nltk). 
+> - Designed and created dashboards (including GIS data) for advisory board in order to support decision-making. (R, Shiny, ggplot2). 
+> - Facilitated of co-innovation sessions in order to customize KPIs and support software internationalization. Implemented a customer’s churn prediction model helping identify opportunities within the Spain/Italy market. (R, caret)
 
 ---
 #### UX Researcher @SAP [Design & CoInnovation Center (DCC)](https://experience.sap.com/designservices/) Berlin, Germany &emsp; <small>*May 2013 - July 2014*</small>
@@ -80,11 +78,10 @@
 `RStudio`, `R`, `caret`, `ensemble`
 > - Prediction of Customer Churn using the AdaBoost Classifier.
 
-
 ---
 ## Software
 ##### Editor & Operating System
-RStudio, Pycharm, Kile | MacOS, Ubuntu
+RStudio, Pycharm, Sublime, Kile | MacOS, Ubuntu
 
 ##### Programming Languages
 R, Python, Tex, SQL
