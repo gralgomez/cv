@@ -88,9 +88,10 @@ R, Python, Tex, SQL
 
 ---
 ## Volunteering
-#### [ISSEM](https://www.meetup.com/R-Ladies-Miami/), Organizer  <small>*April 2017 - current*</small>
-`R`, `meetup`, `community building`
-> - The goal of [R-Ladies](https://rladies.org/) Miami is to build a more inclusive R community in Miami/Broward. THis is a non-profit, female-centric civil community, designed to develop it's members' R skills & knowledge through social, collaborative learning & sharing.
+#### [ISSEM](https://www.meetup.com/R-Ladies-Miami/), Instructor  <small>*Sept 2014, April 2015 - current*</small>
+`Economics`, `Summer School`, `Cuba`
+> - Worked as an Instructor at the course 'Applied Entrepreneurship and Design Thinking' with a group of international students from Berlin and Havana. 
+> - Students were mixed with real star-ups to solve real life problems using the Design Thinking approach and the Business Canvas Model for Business development.
 
 #### [R-Ladies Miami](https://www.meetup.com/R-Ladies-Miami/), Organizer  <small>*April 2017 - current*</small>
 `R`, `meetup`, `community building`
