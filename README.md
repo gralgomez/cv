@@ -88,7 +88,7 @@ R, Python, Tex, SQL
 
 ---
 ## Volunteering
-#### [ISSEM](https://www.meetup.com/R-Ladies-Miami/), Instructor  <small>*Sept 2014, April 2015 - current*</small>
+#### [ISSEM](https://www.meetup.com/R-Ladies-Miami/), Instructor  <small>*Sept 2014, April 2015*</small>
 `Economics`, `Summer School`, `Cuba`
 > - Worked as an Instructor at the course 'Applied Entrepreneurship and Design Thinking' with a group of international students from Berlin and Havana. 
 > - Students were mixed with real star-ups to solve real life problems using the Design Thinking approach and the Business Canvas Model for Business development.
